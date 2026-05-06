@@ -32,7 +32,7 @@ class UC5 {
             sum += digits[i];
         } 
         System.out.println("\nSum of Digits: " + sum);
-        
+         
         input.close();
             
         }
